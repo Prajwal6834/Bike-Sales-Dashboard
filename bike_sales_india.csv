@@ -1,0 +1,101 @@
+State,Avg Daily Distance (km),Brand,Model,Price (INR),Year of Manufacture,Engine Capacity (cc),Fuel Type,Mileage (km/l),Owner Type,Registration Year,Insurance Status,Seller Type,Resale Price (INR),City Tier
+Karnataka,68.84,Royal Enfield,Hunter 350,252816,2021,672,Electric,78.41,Second,2024,Active,Individual,149934.18,Tier 3
+Rajasthan,23.8,Bajaj,Dominar 400,131100,2020,769,Hybrid,89.98,Third,2023,Active,Individual,66960.3,Tier 3
+Madhya Pradesh,27.67,KTM,125 Duke,201016,2020,216,Hybrid,71.46,Second,2023,Active,Dealer,141522.64,Tier 3
+Karnataka,62.85,Kawasaki,Ninja 300,132482,2021,556,Petrol,51.73,Third,2021,Active,Dealer,56057.22,Tier 1
+Madhya Pradesh,10.62,Yamaha,FZ V3,231796,2019,298,Petrol,54.72,Third,2019,Not Available,Individual,132538.36,Tier 3
+Maharashtra,47.71,Hero,Splendor Plus,60839,2019,386,Electric,92.08,First,2019,Not Available,Dealer,47466.45,Tier 3
+Maharashtra,77.95,Royal Enfield,Meteor 350,349740,2022,970,Petrol,58.28,First,2022,Expired,Individual,175038.79,Metro
+Tamil Nadu,11.57,Kawasaki,Vulcan S,193781,2019,375,Electric,61.48,Second,2022,Expired,Dealer,96676.39,Tier 3
+Punjab,78.63,KTM,390 Adventure,145538,2022,330,Electric,89.76,Second,2023,Active,Dealer,103908.96,Tier 2
+Rajasthan,22.94,Hero,HF Deluxe,227055,2024,626,Hybrid,68.13,Third,2024,Active,Individual,146320.5,Tier 3
+Karnataka,24.14,TVS,Jupiter,145061,2024,353,Petrol,28.08,First,2024,Not Available,Individual,83042.09,Tier 2
+Gujarat,19.0,Kawasaki,Vulcan S,283629,2019,621,Petrol,35.62,First,2019,Expired,Dealer,180614.03,Tier 1
+Uttar Pradesh,38.38,Kawasaki,Z650,323882,2015,674,Petrol,26.99,First,2015,Expired,Dealer,235841.3,Tier 3
+Karnataka,31.41,Yamaha,Fascino 125,313211,2017,241,Electric,78.78,Second,2019,Expired,Dealer,139468.03,Tier 2
+Madhya Pradesh,39.71,Hero,Xtreme 160R,165864,2024,774,Electric,86.22,First,2024,Not Available,Individual,118831.51,Tier 1
+Gujarat,46.96,Kawasaki,Ninja 300,106943,2019,980,Petrol,56.58,First,2019,Expired,Individual,72475.12,Tier 3
+Delhi,13.65,Hero,Xtreme 160R,373959,2020,733,Petrol,29.27,First,2020,Active,Dealer,249938.95,Tier 3
+Uttar Pradesh,53.78,Royal Enfield,Hunter 350,288878,2020,659,Petrol,26.89,Third,2020,Expired,Individual,123383.54,Metro
+Rajasthan,21.42,Kawasaki,Versys 650,287349,2018,665,Hybrid,62.43,First,2018,Active,Individual,137540.87,Tier 2
+West Bengal,50.28,Hero,Glamour,159188,2017,441,Electric,71.8,Third,2018,Active,Dealer,74810.24,Tier 3
+Punjab,25.39,Yamaha,MT-15,233599,2021,959,Hybrid,78.59,Second,2021,Expired,Dealer,116719.31,Tier 3
+Madhya Pradesh,28.45,Bajaj,Dominar 400,124572,2015,177,Electric,93.33,Third,2015,Not Available,Dealer,80786.82,Metro
+Punjab,55.57,Hero,HF Deluxe,305977,2017,261,Hybrid,94.67,Second,2023,Active,Dealer,172445.74,Metro
+Punjab,73.15,Kawasaki,Versys 650,343743,2019,227,Hybrid,88.98,Third,2020,Not Available,Dealer,207103.09,Tier 3
+Delhi,10.94,Kawasaki,Versys 650,348864,2021,833,Petrol,41.28,Second,2021,Not Available,Dealer,156687.31,Tier 2
+Gujarat,17.06,Kawasaki,Ninja 300,276161,2015,880,Electric,78.25,Second,2019,Not Available,Individual,145292.42,Metro
+Maharashtra,37.17,Honda,Activa,194846,2016,243,Hybrid,71.6,Third,2018,Expired,Dealer,111451.3,Tier 1
+West Bengal,12.26,Yamaha,Ray ZR,296387,2016,728,Electric,73.21,First,2016,Active,Dealer,150350.99,Tier 1
+Karnataka,25.34,Royal Enfield,Hunter 350,263389,2023,976,Petrol,45.81,First,2023,Not Available,Dealer,181145.09,Tier 3
+Delhi,51.69,Bajaj,Dominar 400,390158,2018,620,Petrol,29.77,First,2018,Active,Individual,274058.16,Metro
+Madhya Pradesh,78.17,Yamaha,Fascino 125,124319,2021,370,Petrol,33.15,Third,2022,Not Available,Dealer,57652.94,Tier 3
+Rajasthan,33.03,Bajaj,Avenger 220,301300,2019,202,Electric,97.13,Third,2024,Active,Individual,196062.13,Tier 1
+Delhi,72.94,Hero,Passion Pro,93080,2019,829,Hybrid,99.48,Second,2020,Active,Dealer,67381.9,Metro
+Karnataka,29.17,Yamaha,FZ V3,269787,2022,646,Electric,95.65,Second,2023,Not Available,Individual,173078.76,Metro
+Madhya Pradesh,45.65,Hero,HF Deluxe,143467,2023,151,Petrol,31.09,Second,2023,Expired,Individual,101240.49,Tier 2
+Uttar Pradesh,33.98,TVS,NTorq 125,96480,2017,648,Hybrid,77.42,Second,2021,Not Available,Dealer,56022.88,Metro
+Tamil Nadu,18.12,Yamaha,R15 V4,367986,2020,248,Electric,83.93,Second,2021,Active,Dealer,273519.68,Tier 2
+Gujarat,17.48,Kawasaki,Vulcan S,177033,2019,482,Petrol,58.35,Third,2024,Active,Individual,131406.64,Tier 1
+Rajasthan,25.74,TVS,Jupiter,218145,2016,643,Hybrid,65.22,Second,2023,Expired,Individual,161974.1,Tier 2
+Rajasthan,79.18,TVS,NTorq 125,133793,2015,507,Electric,77.83,First,2015,Expired,Individual,73437.25,Tier 1
+Uttar Pradesh,64.42,Yamaha,Ray ZR,292817,2021,828,Electric,70.73,First,2021,Expired,Individual,149668.49,Tier 3
+West Bengal,29.76,Hero,Glamour,74456,2017,531,Petrol,25.56,Third,2023,Active,Dealer,56908.93,Tier 2
+Punjab,42.6,Honda,Unicorn,355891,2020,687,Hybrid,93.85,First,2020,Expired,Individual,158365.89,Tier 1
+Tamil Nadu,74.11,TVS,NTorq 125,257193,2019,434,Petrol,59.84,Second,2019,Expired,Dealer,179381.6,Metro
+Rajasthan,79.0,KTM,390 Adventure,71253,2020,652,Hybrid,63.97,Third,2022,Active,Dealer,42173.59,Metro
+Punjab,67.67,TVS,Ronin,133844,2024,617,Electric,63.25,Third,2024,Not Available,Dealer,66018.44,Tier 1
+Gujarat,32.57,Bajaj,Platina 110,95632,2024,710,Electric,99.24,Second,2024,Not Available,Individual,42720.82,Tier 3
+Maharashtra,32.87,Bajaj,Pulsar 150,191773,2023,828,Hybrid,98.66,First,2023,Expired,Individual,140421.62,Tier 1
+Maharashtra,62.48,TVS,Ronin,147474,2023,755,Electric,78.21,Second,2024,Active,Individual,105865.07,Tier 2
+Uttar Pradesh,41.44,Yamaha,R15 V4,300933,2021,696,Hybrid,65.1,First,2021,Expired,Dealer,225273.11,Metro
+Gujarat,52.31,TVS,NTorq 125,99895,2016,893,Petrol,26.33,First,2016,Not Available,Dealer,47375.0,Tier 1
+West Bengal,28.27,KTM,Duke 200,217205,2019,270,Hybrid,64.06,Second,2021,Not Available,Dealer,141079.28,Tier 3
+Uttar Pradesh,75.79,Honda,Shine,233723,2016,660,Petrol,57.14,Second,2017,Active,Dealer,129260.78,Tier 3
+Gujarat,46.83,Royal Enfield,Meteor 350,83677,2018,210,Petrol,26.01,Second,2023,Not Available,Dealer,53718.48,Tier 2
+Tamil Nadu,41.97,Royal Enfield,Classic 350,261848,2016,637,Hybrid,99.08,Second,2016,Not Available,Dealer,106199.5,Tier 1
+Uttar Pradesh,52.27,Kawasaki,Versys 650,57231,2015,435,Hybrid,93.59,Second,2021,Expired,Dealer,43829.89,Tier 1
+Uttar Pradesh,47.4,Royal Enfield,Meteor 350,185536,2017,313,Electric,96.56,Second,2017,Not Available,Individual,90338.15,Tier 2
+Madhya Pradesh,52.29,Yamaha,R15 V4,91984,2019,526,Hybrid,80.39,Third,2020,Expired,Individual,37749.25,Metro
+Delhi,45.11,Honda,Dio,82114,2023,541,Petrol,36.83,Third,2023,Expired,Individual,33757.75,Tier 1
+Gujarat,40.19,TVS,Sport,214316,2023,893,Hybrid,67.88,Third,2023,Active,Dealer,161265.41,Tier 3
+Uttar Pradesh,17.75,Kawasaki,Ninja 400,194396,2021,268,Petrol,49.4,First,2021,Not Available,Individual,111751.02,Tier 2
+Maharashtra,24.39,TVS,Apache RTR 160,398017,2015,510,Hybrid,86.93,Second,2018,Active,Dealer,208424.27,Tier 3
+Tamil Nadu,5.01,Honda,Shine,252763,2019,235,Petrol,58.71,Third,2022,Not Available,Dealer,191177.64,Tier 1
+Rajasthan,13.83,TVS,Sport,105989,2024,397,Electric,69.45,Third,2024,Expired,Individual,73023.48,Tier 1
+Madhya Pradesh,29.36,Hero,Glamour,227568,2022,105,Electric,87.57,Third,2022,Not Available,Dealer,148291.88,Metro
+Delhi,50.37,KTM,RC 390,197036,2016,986,Hybrid,71.9,Second,2020,Not Available,Dealer,104145.28,Tier 3
+Tamil Nadu,66.35,Kawasaki,Ninja 300,363149,2016,464,Hybrid,92.06,Third,2018,Expired,Individual,206857.8,Tier 3
+West Bengal,42.56,Honda,Unicorn,335346,2023,869,Hybrid,71.46,Second,2024,Active,Dealer,248193.98,Tier 2
+Rajasthan,12.34,Bajaj,Pulsar 150,296836,2021,983,Hybrid,99.9,First,2021,Not Available,Individual,130167.29,Tier 1
+Tamil Nadu,12.59,Bajaj,Avenger 220,323235,2024,158,Electric,93.36,Second,2024,Not Available,Individual,165176.17,Tier 3
+Tamil Nadu,41.75,Yamaha,FZ V3,251858,2024,193,Hybrid,92.66,First,2024,Active,Individual,185017.03,Tier 1
+Rajasthan,52.51,Yamaha,R15 V4,103906,2024,605,Petrol,46.27,First,2024,Not Available,Individual,47612.58,Metro
+Madhya Pradesh,60.79,TVS,Ronin,122641,2024,729,Electric,85.79,Third,2024,Not Available,Dealer,96164.51,Tier 2
+West Bengal,28.5,Bajaj,Dominar 400,386215,2017,445,Petrol,26.09,Third,2018,Active,Dealer,245041.18,Tier 1
+West Bengal,37.54,TVS,Sport,385671,2019,369,Hybrid,93.74,Second,2024,Active,Dealer,229843.47,Tier 2
+West Bengal,71.47,TVS,Ronin,280350,2022,817,Petrol,34.37,Second,2024,Expired,Individual,117145.83,Tier 3
+Uttar Pradesh,26.27,Bajaj,Avenger 220,100854,2016,615,Petrol,35.58,Third,2019,Expired,Individual,74877.79,Tier 1
+Madhya Pradesh,70.9,TVS,Sport,99577,2015,169,Hybrid,94.67,First,2015,Not Available,Dealer,57421.87,Tier 1
+Punjab,62.97,Bajaj,Pulsar 150,309441,2020,715,Electric,86.06,First,2020,Active,Individual,199917.17,Tier 2
+Delhi,65.75,Royal Enfield,Interceptor 650,273997,2022,209,Petrol,58.73,Second,2023,Active,Individual,215428.56,Tier 2
+Delhi,47.8,Honda,Unicorn,259385,2022,195,Electric,93.35,First,2022,Expired,Individual,197760.05,Tier 2
+Punjab,36.81,Hero,Splendor Plus,79908,2023,971,Petrol,54.43,Third,2023,Not Available,Individual,54363.32,Tier 3
+Karnataka,35.39,TVS,Apache RTR 160,385822,2019,765,Petrol,42.97,First,2019,Active,Dealer,209566.7,Tier 2
+Gujarat,24.81,Hero,HF Deluxe,161105,2023,105,Hybrid,86.61,First,2023,Expired,Individual,91744.22,Tier 1
+Uttar Pradesh,26.88,Bajaj,Avenger 220,214030,2016,176,Petrol,52.02,Third,2018,Not Available,Dealer,91233.3,Tier 2
+West Bengal,43.79,KTM,390 Adventure,325963,2022,375,Hybrid,64.4,Second,2022,Expired,Dealer,157743.79,Tier 1
+West Bengal,55.91,Honda,Dio,136156,2016,579,Petrol,31.95,First,2016,Active,Dealer,65576.03,Tier 3
+Punjab,44.7,Hero,Glamour,198786,2019,542,Petrol,29.49,First,2019,Expired,Individual,145261.54,Tier 2
+Uttar Pradesh,13.58,Hero,Xtreme 160R,250462,2015,647,Electric,88.97,Third,2017,Not Available,Individual,115865.15,Tier 1
+West Bengal,11.01,TVS,Ronin,236303,2021,877,Petrol,53.11,Third,2023,Active,Individual,103242.42,Tier 3
+Karnataka,32.64,Honda,Shine,336638,2017,575,Hybrid,70.37,Third,2021,Not Available,Individual,238462.12,Tier 3
+Madhya Pradesh,39.46,TVS,NTorq 125,292002,2016,277,Electric,82.5,Second,2019,Active,Dealer,215862.87,Tier 3
+West Bengal,48.16,Yamaha,Fascino 125,140993,2022,382,Hybrid,77.81,Third,2022,Not Available,Individual,96056.57,Tier 3
+Punjab,30.35,Bajaj,Avenger 220,91498,2018,973,Electric,61.28,Third,2020,Active,Dealer,46132.61,Metro
+Tamil Nadu,22.58,Yamaha,FZ V3,65569,2015,169,Hybrid,73.29,First,2015,Active,Individual,35079.4,Tier 3
+Karnataka,60.74,KTM,390 Adventure,61526,2016,598,Electric,81.38,Second,2022,Not Available,Individual,27992.34,Metro
+Tamil Nadu,20.63,Honda,Shine,146308,2019,808,Hybrid,83.77,Second,2022,Not Available,Dealer,80884.08,Tier 2
+Tamil Nadu,8.92,Yamaha,Fascino 125,326280,2017,837,Hybrid,88.88,Second,2023,Expired,Individual,203791.95,Tier 3
+Maharashtra,23.12,Yamaha,FZ V3,116504,2017,699,Hybrid,90.02,Third,2022,Expired,Individual,53430.47,Tier 2
+
